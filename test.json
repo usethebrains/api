@@ -1,0 +1,93 @@
+[
+  {
+    "Topic": "Reinforcement Learning",
+    "QuizCount": 2,
+    "TopicInfo": [
+      {
+        "Topic": "Q-Learning",
+        "Discrption": "A technique that learns an optimal policy for an agent to act in an environment by using a table of action values.",
+        "AutName": "Fiona Lee",
+        "QuizUrl": "https://example.com/q-learning-quiz",
+        "IsUpdateAvaila": false,
+        "IsOffline": false,
+        "AutAvata": "https://example.com/fiona-lee-avatar.jpg",
+        "QuizCount": 10
+      },
+      {
+        "Topic": "Deep Q-Network",
+        "Discrption": "A technique that combines Q-learning with deep neural networks to learn complex policies for high-dimensional environments.",
+        "AutName": "George Wang",
+        "QuizUrl": "https://example.com/deep-q-network-quiz",
+        "IsUpdateAvaila": true,
+        "IsOffline": true,
+        "AutAvata": "https://example.com/george-wang-avatar.jpg",
+        "QuizCount": 15
+      }
+    ]
+  },
+  {
+    "Topic": "Natural Language Processing",
+    "QuizCount": 2,
+    "TopicInfo": [
+      {
+        "Topic": "Sentiment Analysis",
+        "Discrption": "A technique that analyzes the emotions and opinions expressed in text.",
+        "AutName": "Bob Lee",
+        "QuizUrl": "https://example.com/sentiment-analysis-quiz",
+        "IsUpdateAvaila": false,
+        "IsOffline": false,
+        "AutAvata": "https://example.com/bob-lee-avatar.jpg",
+        "QuizCount": 12
+      },
+      {
+        "Topic": "Machine Translation",
+        "Discrption": "A technique that converts text or speech from one language to another.",
+        "AutName": "Alice Wang",
+        "QuizUrl": "https://example.com/machine-translation-quiz",
+        "IsUpdateAvaila": true,
+        "IsOffline": true,
+        "AutAvata": "https://example.com/alice-wang-avatar.jpg",
+        "QuizCount": 10
+      }
+    ]
+  },
+  {
+    "Topic": "Computer Vision",
+    "QuizCount": 3,
+    "TopicInfo": [
+      {
+        "Topic": "Face Recognition",
+        "Discrption": "A technique that identifies or verifies a person from a digital image or a video frame.",
+        "AutName": "Charles Kim",
+        "QuizUrl": "https://example.com/face-recognition-quiz",
+        "IsUpdateAvaila": true,
+        "IsOffline": false,
+        "AutAvata": "https://example.com/charles-kim-avatar.jpg",
+        "QuizCount": 15
+      },
+      {
+        "Topic": "Object Detection",
+        "Discrption": "A technique that locates and classifies objects in an image or a video.",
+        "AutName": "Diana Jones",
+        "QuizUrl": "https://example.com/object-detection-quiz",
+        "IsUpdateAvaila": false,
+        "IsOffline": true,
+        "AutAvata": "https://example.com/diana-jones-avatar.jpg",
+        "QuizCount": 12
+      },
+      {
+        "Topic": "Image Segmentation",
+        "Discrption": "A technique that partitions an image into multiple regions or pixels that share similar attributes.",
+        "AutName": "Evan Smith",
+        "QuizUrl": "https://example.com/image-segmentation-quiz",
+        "IsUpdateAvaila": true,
+        "IsOffline": false,
+        "AutAvata": "https://example.com/evan-smith-avatar.jpg",
+        "QuizCount": 10
+      }
+    ]
+  }
+
+
+]
+
